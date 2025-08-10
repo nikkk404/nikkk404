@@ -99,8 +99,8 @@ Capabilities:
 
 </div>
 <div align="center">
-<a href="https://tryhackme.com/p/nikkk404" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/nikkk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
+<a href="https://tryhackme.com/p/nikk404" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/nikk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
 </a>
 </div>
 
