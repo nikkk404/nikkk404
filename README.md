@@ -91,11 +91,11 @@ Capabilities:
 
 <div align="center">
   
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyynikhil&show_icons=true&theme=dark&count_private=true)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkk404&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyynikhil&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkk404&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyynikhil&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikkk404&theme=dark)
 
 </div>
 
