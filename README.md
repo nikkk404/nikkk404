@@ -50,7 +50,7 @@ Digital Forensics     ███████████████      75%
 </a>
 </div>
 
-
+```
 ### 🏆 Featured Projects
 
 #### 🛡️ [Digiraksha: Mobile Security Suite](link-to-repo)
