@@ -49,8 +49,8 @@ Digital Forensics     ███████████████      75%
 <img src="https://tryhackme-badges.s3.amazonaws.com/nikk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
 </a>
 </div>
+---
 
-```
 ### 🏆 Featured Projects
 
 #### 🛡️ [Digiraksha: Mobile Security Suite](link-to-repo)
