@@ -110,8 +110,7 @@ Capabilities:
 - **CompTIA Linux+** - Udemy
 
 #### 📚 In Progress
-- **CompTIA Security+** (Expected: March 2025)
-- **CEH (Certified Ethical Hacker)** - EC-Council
+- **CRTO (Certified Red Team Operator)** (Expected: Oct 2025)
 
 ---
 
@@ -134,20 +133,11 @@ Capabilities:
 
 ---
 
-### 📊 Current Activities
-
-#### 🔥 This Week I'm Working On:
-- 🛡️ Advanced malware analysis techniques
-- ☁️ AWS security architecture review
-- 📱 Mobile application penetration testing framework
-- 📖 Research paper on AI-driven threat detection
-
-#### 🎯 2024 Goals:
-- [ ] Contribute to 5+ open-source security tools
+#### 🎯 2025 Goals:
 - [ ] Achieve CEH certification
 - [ ] Publish 2 more research papers
 - [ ] Reach top 20 in international CTF competition
-- [x] Complete AWS Security Specialty certification
+- [ ] Complete AWS Security Specialty certification
 
 ---
 
@@ -178,6 +168,6 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
 
 ⭐ **If you find my work interesting, please consider giving a star to my repositories!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=heyynikhil.heyynikhil)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nikkk404.nikkk404)
 
 </div>
