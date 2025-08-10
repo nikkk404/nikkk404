@@ -91,12 +91,17 @@ Capabilities:
 
 <div align="center">
   
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyynikhil&show_icons=true&theme=dark&count_private=true)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkk404&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyynikhil&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkk404&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyynikhil&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikkk404&theme=dark)
 
+</div>
+<div align="center">
+<a href="https://tryhackme.com/p/nikkk404" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/nikkk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
+</a>
 </div>
 
 ---
@@ -108,13 +113,6 @@ Capabilities:
 - **TryHackMe**: Pre Security, Web Fundamentals, Jr. Pentester, Pentest+
 - **EC-Council**: SQL Injection Attacks Certification
 - **CompTIA Linux+** - Udemy
-
-#### 🏆 TryHackMe Profile
-<div align="center">
-<script src="https://tryhackme.com/badge/1176100"></script>
-</div>
-
-*For interactive badge display, visit the live GitHub profile*
 
 #### 📚 In Progress
 - **CRTO (Certified Red Team Operator)** (Expected: Oct 2025)
@@ -139,14 +137,6 @@ Capabilities:
 - **Developer Intern** - SAKEC CyberPeace CoE (Jun 2024 - Nov 2024)
 
 ---
-
-### 📊 Current Activities
-
-#### 🔥 This Week I'm Working On:
-- 🛡️ Advanced malware analysis techniques
-- ☁️ AWS security architecture review
-- 📱 Mobile application penetration testing framework
-- 📖 Research paper on AI-driven threat detection
 
 #### 🎯 2025 Goals:
 - [ ] Achieve CEH certification
@@ -183,6 +173,6 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
 
 ⭐ **If you find my work interesting, please consider giving a star to my repositories!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=heyynikhil.heyynikhil)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nikkk404.nikkk404)
 
 </div>
