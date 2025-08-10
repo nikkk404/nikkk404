@@ -43,6 +43,12 @@ Digital Forensics     ███████████████      75%
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🏆 TryHackMe Profile
+<div align="center">
+<a href="https://tryhackme.com/p/nikk404" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/nikk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
+</a>
+</div>
 ---
 
 ### 🏆 Featured Projects
@@ -97,11 +103,6 @@ Capabilities:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikkk404&theme=dark)
 
-</div>
-<div align="center">
-<a href="https://tryhackme.com/p/nikk404" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/nikk404.png" alt="TryHackMe Badge" style="max-width: 300px;">
-</a>
 </div>
 
 ---
