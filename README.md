@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heyynikhil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heyynikhil/)
 [![Email](https://img.shields.io/badge/Email-contact.nikhil02%40gmail.com-red?style=flat&logo=gmail)](mailto:contact.nikhil02@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9930575779-green?style=flat&logo=phone)](tel:+919930575779)
+[![Phone](https://img.shields.io/badge/Phone-9930xxxxx79-green?style=flat&logo=phone)](tel:+91993xxxxx79)
 
 ---
 
@@ -154,7 +154,7 @@ I'm always interested in collaborating on cybersecurity projects, discussing the
 
 - 💼 **Professional**: [LinkedIn](https://www.linkedin.com/in/heyynikhil/)
 - 📧 **Email**: contact.nikhil02@gmail.com
-- 📱 **Phone**: +91 9930575779
+- 📱 **Phone**: +91 9930xxxxx79
 - 🐦 **CTF Team**: Looking for team members for upcoming competitions!
 
 ---
